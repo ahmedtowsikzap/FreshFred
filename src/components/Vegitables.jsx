@@ -1,9 +1,5 @@
 const Vegitables = () => {
-  return (
-    <div>
-      <h1>veges</h1>
-    </div>
-  );
+  return <div></div>;
 };
 
 export default Vegitables;
